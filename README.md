@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a todo list application with a fluid user interface, built with javascript, allowing users to rapidly add dynamic content.
 
-Things you may want to cover:
+Programming languages used includes HTML, CSS, RUBY, RAILS, ALGORITHYMS, AND JAVASCRIPT.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://todoster-vincent-job.herokuapp.com/
